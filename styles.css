@@ -1,0 +1,31 @@
+/* add your CSS here */
+
+/* Boarder */
+
+#outline{
+  border: solid lightgrey 1px;
+  width:300px;
+  padding:8px;
+  margin:auto;
+  box-shadow: 10px 10px 5px lightgrey;
+}
+
+#info{
+  border: solid lightgrey 1px;
+  padding:8px;
+  margin:auto;
+  margin-top: 5px;
+}
+
+/* Fonts */
+
+.bold{
+  font-weight: bold;
+}
+
+/* List */
+ul {
+  list-style-type: none;
+  padding:0px;
+  margin: 0px;
+}
